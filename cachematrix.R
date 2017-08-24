@@ -1,6 +1,6 @@
 ## These functions will solve the inverse of a matrix, store it in a cache,
 ## then if the same inverse is called again it will retrieve it from the cache 
-##rather than recalculate it.
+## rather than recalculate it.
 
 ## Solves inverse of matrix and stores it
 
